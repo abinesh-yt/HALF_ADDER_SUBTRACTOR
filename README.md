@@ -65,8 +65,8 @@ endmodule
 
 ~~~
 
-Developed by:Balaji t
-RegisterNumber:25005672
+Developed by:Abinesh A
+RegisterNumber:25017255
 
 **RTL Schematic**
 
